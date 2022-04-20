@@ -23,7 +23,7 @@ Can be found on Telegram as [Marrk Bot ❤](https://t.me/Jmhaiabr>
 ### 🔎 Support Inline Search
 
 ## 📊 Stats
-[![CodeFactor](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot/badge)](https://www.codefactor.io/repository/github/marrk85/Music-Video)
+[![CodeFactor](https://www.codefactor.io/repository/github/Rishabhbhan4/video-Bot/badge)](https://www.codefactor.io/repository/github/mivinka1/Music-Video)
 
 ## 🧪 Get `SESSION_NAME` from below:
 
@@ -38,7 +38,7 @@ Can be found on Telegram as [Marrk Bot ❤](https://t.me/Jmhaiabr>
 ## Heroku Deployment <img src="./ImageFont/Kenred.gif" width="40px">
 The easy way to host this bot, deploy to Heroku.
 Click On The Image To Deploy
-[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/marrk85/Music-Video)
+[![Deploy](https://te.legra.ph/file/131da17a823ddcb96f2f5.jpg)](https://heroku.com/deploy?template=https://github.com/mivinka1/Music-Video)
 
 ## VPS Deployment 🎵
 Get the best Quality of streaming performance by hosting it on VPS, here's the step's:
@@ -59,13 +59,4 @@ python3 main.py # run the bot.
 
 # continue the host with screen or anything else, thanks for reading.
 ```
-
-# Credits 💖
-
-- [Marrk](https://github.com/marrk85) ``Dev``
-- [Kaka](https//gitHub.com/kaka026) ``Dev``
-- [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
 ------
-## Telegram Support & Updates 🏢
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/marrkmusic)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/marrkHelpBots)
