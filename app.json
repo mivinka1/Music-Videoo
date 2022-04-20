@@ -1,16 +1,16 @@
 {
     "name": "Video x Music Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://te.legra.ph/file/7b7500ae7291951918a69.jpg",
+    "logo": "https://telegra.ph/file/e3f72ccaaaf974c285aa8.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video Bot",
         "pyrogram"
     ],
-    "website": "https://t.me/marrkmusic",
-    "repository": "https://github.com/marrk85/Music-Video",
-    "success_url": "https://t.me/marrk85",
+    "website": "https://t.me/oangelangelangelo",
+    "repository": "https://github.com/mivinka1/Music-Video",
+    "success_url": "https://t.me/oangelangelangelo",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
