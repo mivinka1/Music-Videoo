@@ -24,7 +24,7 @@ keyboard = InlineKeyboardMarkup(
         [
             [
                 InlineKeyboardButton(text="• Mᴇɴᴜ", callback_data="cbmenu"),
-                InlineKeyboardButton(text="• Group", url=f"https://t.me/marrkmusic"),
+                InlineKeyboardButton(text="• Group", url=f"https://t.me/botdemonsupport"),
             ]
         ]
     )
